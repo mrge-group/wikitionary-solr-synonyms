@@ -1,0 +1,2 @@
+wikitionary-solr-synonyms
+=========================
