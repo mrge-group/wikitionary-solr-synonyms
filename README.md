@@ -1,5 +1,24 @@
 # wikitionary-solr-synonyms
 
+Parser for wiktionary files.
+
+Execute Main.java for current implementation. Current implementation creates 2 files `stem.txt` (german stemming) and `subword.txt` (transitive subwords) for solr configuration.
+
+Stemming:
+```
+...
+pullover,pullovers,pullovern => pullover
+...
+```
+
+Subwords:
+```
+...
+pullover,pullovers,pullovern => pullover,pullovern,pullovers,strickpullover,sweatshirt,wollpullover
+...
+```
+
+
 ## Wiktionary download
 
 Download `dewiktionary-20130321-pages-meta-current.xml` (or other language) from http://dumps.wikimedia.org/backup-index.html
