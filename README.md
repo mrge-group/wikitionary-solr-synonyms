@@ -1,11 +1,16 @@
 # wikitionary-solr-synonyms
 
+## Wiktionary download
+
+Download `dewiktionary-20130321-pages-meta-current.xml` (or other language) from [http://dumps.wikimedia.org/backup-index.html]
+
 ## Usage
 
 Example usage in `Main.java`.
 
 1. Implement a PageParser
-	
+
+```java	
 	 public class MyPageParser extends PageParser {
 	 
 	 	@Override
@@ -21,9 +26,11 @@ Example usage in `Main.java`.
 	 	}
 	 
 	 }
-	
+```	
+
 2. Add PageParser to WikiParser and implement a callback
 	
+```java
 	 WikiParser wp = new WikiParser();
 	 wp.addParser(new MyPageParser(new PageParserCallback() {
 			
@@ -34,9 +41,11 @@ Example usage in `Main.java`.
 		}));
 	
 	 // ...
+```	
 	
 3. Parse!
-	
+
+```java	
 	 wp.parse("resources/dewiktionary-20121206-pages-meta-current.xml");
-	
+```		
 	
