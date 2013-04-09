@@ -2,7 +2,7 @@
 
 Parser for wiktionary files.
 
-Execute Main.java for current implementation. Current implementation creates 2 files `stem.txt` (german stemming) and `subword.txt` (transitive subwords) for solr configuration.
+Execute `SolrSynomyms.java` for current implementation. Current implementation creates 2 files `stem.txt` (german stemming) and `subword.txt` (transitive subwords) for solr configuration.
 
 Stemming:
 ```
@@ -25,7 +25,7 @@ Download `dewiktionary-20130321-pages-meta-current.xml` (or other language) from
 
 ## Usage
 
-Example usage in `Main.java`.
+Example usage in `SolrSynomyms.java`.
 
 1. Implement a PageParser
 

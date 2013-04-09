@@ -13,7 +13,7 @@ import org.apache.commons.lang3.tuple.Pair;
 
 
 
-public class Main {
+public class SolrSynonyms {
 
 	private static final String stem = "stem.txt";	
 	
@@ -64,7 +64,7 @@ public class Main {
 			
 			SortedSet<String> keys = new TreeSet<String>(subwortmap.keySet());
 			
-			subwordout.createNewFile();
+			FileUtils.writeStringToFile(subwordout, "");
 			
 			for (String key : keys) { 
 				Pair<List<String>,List<String>> pair = subwortmap.get(key);
@@ -94,7 +94,7 @@ public class Main {
 			
 			SortedSet<String> keys = new TreeSet<String>(stemmap.keySet());
 			
-			stemout.createNewFile();
+			FileUtils.writeStringToFile(stemout, "");
 			
 			for (String key : keys) { 
 				FileUtils.writeStringToFile(stemout, key + " => " + stemmap.get(key) + "\n", "utf-8", true);
