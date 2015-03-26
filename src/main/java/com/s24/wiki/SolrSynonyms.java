@@ -53,7 +53,7 @@ public class SolrSynonyms {
          }
       }));
 
-      wp.parse("resources/dewiktionary-20121206-pages-meta-current.xml");
+      wp.parse(args[0]);
 
       try {
 
