@@ -48,7 +48,7 @@ public class GrammarPageParser extends PageParser {
 
    @Override
    protected String getName() {
-      return "†bersicht";
+      return "Ãœbersicht";
    }
 
 }

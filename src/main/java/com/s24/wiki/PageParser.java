@@ -17,7 +17,7 @@ public abstract class PageParser {
    abstract protected String getName();
 
    protected boolean isValidPage(WikiPage page) {
-      Pattern pattern = Pattern.compile("\\{\\{Ÿberarbeiten\\|[^\\}]*" + getName());
+      Pattern pattern = Pattern.compile("\\{\\{Ãœberarbeiten\\|[^\\}]*" + getName());
       Matcher matcher = pattern.matcher(page.getWikiText());
       return !matcher.find();
 
