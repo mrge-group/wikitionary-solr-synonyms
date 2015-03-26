@@ -4,6 +4,26 @@
    <groupId>com.s24.api</groupId>
    <artifactId>wikitionary-solr-synonyms</artifactId>
    <version>0.0.1-SNAPSHOT</version>
+   
+    <scm>
+      <connection>scm:git:git@github.com:shopping24/wikitionary-solr-synonyms.git</connection>
+      <developerConnection>scm:git:git@github.com:shopping24/wikitionary-solr-synonyms.git</developerConnection>
+      <url>https://github.com/shopping24/wikitionary-solr-synonyms.git</url>
+      <tag>HEAD</tag>
+   </scm>
+   <issueManagement>
+      <system>Github Issues</system>
+      <url>${project.url}/issues</url>
+   </issueManagement>
+   <organization>
+      <name>Shopping24 GmbH</name>
+      <url>http://developer.s24.com</url>
+   </organization>
+
+   <prerequisites>
+      <maven>3.2</maven>
+   </prerequisites>
+   
    <build>
       <sourceDirectory>src/contrib/java</sourceDirectory>
       <resources>
@@ -17,10 +37,10 @@
       <plugins>
          <plugin>
             <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.0</version>
+            <version>3.2</version>
             <configuration>
-               <source>1.6</source>
-               <target>1.6</target>
+               <source>1.8</source>
+               <target>1.8</target>
             </configuration>
          </plugin>
       </plugins>
