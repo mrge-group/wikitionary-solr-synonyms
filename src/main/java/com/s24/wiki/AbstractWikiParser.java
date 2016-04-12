@@ -8,11 +8,11 @@ import edu.jhu.nlp.wikipedia.WikiPage;
 import edu.jhu.nlp.wikipedia.WikiXMLParser;
 import edu.jhu.nlp.wikipedia.WikiXMLParserFactory;
 
-public class WikiParser {
+public abstract class AbstractWikiParser {
 
    List<PageParser> parser;
 
-   public WikiParser() {
+   public AbstractWikiParser() {
       parser = new ArrayList<PageParser>();
    }
 
@@ -44,10 +44,6 @@ public class WikiParser {
       parser.add(p);
    }
 
-   private boolean isNoun(WikiPage page) {
-      return page.getWikiText().contains("{{Wortart|Substantiv|Deutsch}}") && page.getTitle().trim().length() > 3
-            && !page.getTitle().contains(":") && !page.getTitle().contains("-")
-            && !page.getTitle().trim().contains(" ");
-   }
+   protected abstract boolean isNoun(WikiPage page);
 
 }

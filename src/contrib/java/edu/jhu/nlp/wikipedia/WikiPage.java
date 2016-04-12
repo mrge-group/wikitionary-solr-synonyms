@@ -1,8 +1,8 @@
 package edu.jhu.nlp.wikipedia;
 
-import java.util.Vector;
 import java.util.HashMap;
-    
+import java.util.Vector;
+
 import edu.jhu.nlp.language.Language;
 
 /**

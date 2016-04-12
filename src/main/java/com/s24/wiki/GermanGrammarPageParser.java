@@ -7,9 +7,9 @@ import java.util.regex.Pattern;
 
 import edu.jhu.nlp.wikipedia.WikiPage;
 
-public class GrammarPageParser extends PageParser {
+public class GermanGrammarPageParser extends GermanPageParser {
 
-   public GrammarPageParser(PageParserCallback cb) {
+   public GermanGrammarPageParser(PageParserCallback cb) {
       super(cb);
    }
 

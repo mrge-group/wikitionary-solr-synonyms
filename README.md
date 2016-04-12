@@ -13,6 +13,11 @@ Subwords:
 pullover,pullovers,pullovern => pullover,pullovern,pullovers,strickpullover,sweatshirt,wollpullover
 ```
 
+Nouns:
+```
+insert into lists (type, entry, modified_by, modified_at, active) values ('noun-wiktionary-de', 'Aachen','SomeUserName',now(),true);
+```
+
 ## Wiktionary download
 
 Download `dewiktionary-<DATE>-pages-meta-current.xml` (or other language) from http://dumps.wikimedia.org/backup-index.html

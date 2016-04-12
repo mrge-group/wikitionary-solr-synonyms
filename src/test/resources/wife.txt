@@ -1,0 +1,350 @@
+==English==
+{{wikipedia|Wife (disambiguation)}}
+
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|wif}}, {{m|enm|wiif}}, {{m|enm|wyf}}, from {{etyl|ang|en}} {{m|ang|wīf||woman, female, lady, wife}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wībą||woman, wife}}, possibly from {{etyl|ine-pro|en}} {{m|ine-pro|*gʰwíh₂bʰ-||shame, pudenda}} (compare Tocharian A/B {{m|xto|kip}}/{{m|txb|kwīpe||shame, genitals, female pudenda}}).<ref>{{R:txb:Adams 1999|page=238}}</ref><ref>Klaus Totila Schmit and Klaus Strunk, “Toch. B ''kwī̆pe'' ‘Schaum, Schande’, A ''kip'' ‘Schaum’ und germ. *''wīƀa'' ‘Weib’”, ''Indogermanica Europaea: Festschrift für Wolfgang Meid'' (Graz: Institut für Sprachwissenschaft der Universität Graz, 1989), pages 251-284</ref> Cognate with {{etyl|sco|-}} {{m|sco|wife||wife}}, {{etyl|fy|-}} {{m|fy|wiif||wife, woman}}, {{etyl|stq|-}} {{m|stq|Wieuw||woman, lady, female}}, {{etyl|frr|-}} {{m|frr|wüf||wife, woman}}, {{etyl|nl|-}} {{m|nl|wijf||woman, female}}, {{etyl|nds|-}} {{m|nds|Wief||woman, female}}, {{etyl|de|-}} {{m|de|Weib||woman, wife, female}}, {{etyl|da|-}} {{m|da|viv||woman}}, {{etyl|sv|-}} {{m|sv|viv||woman}}, {{etyl|fo|-}} {{m|fo|vív||wife, woman}}, {{etyl|is|-}} {{m|is|víf||woman}}.
+
+===Pronunciation===
+* {{IPA|/waɪf/|lang=en}}
+* {{audio|en-us-wife.ogg|Audio (US)|lang=en}}
+* {{audio|En-uk-wife.ogg|Audio (UK)|lang=en}}
+* {{rhymes|aɪf|lang=en}}
+
+===Noun===
+{{en-noun|wives}}
+
+# A [[marry|married]] [[woman]], especially in relation to her spouse.
+#* ''{{w|The Fisherman and His Wife}}''
+#* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=10
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=It was a joy to snatch some brief respite, and find himself in the rectory drawing–room. Listening here was as pleasant as talking; just to watch was pleasant. The young priests who lived here wore cassocks and birettas; their faces were fine and mild, yet really strong, like the rector's face; and in their intercourse with him and his '''wife''' they seemed to be brothers.}}
+#* '''1952''', [[w:P._G._Wodehouse|P. G. Wodehouse]], ''Big Business'', in [[w:A_Few_Quick_Ones|'A Few Quick Ones']], Everyman, London: 2009, p 127-8.
+#*: All through Reginald's deeply moving performance she had sat breathless, her mind in a whirl and her soul stirred to her very depths. With each low note that he pulled up from the soles of his shoes she could feel the old affection and esteem surging back into her with a whoosh, and long before he had taken his sixth bow she knew ... that it would be madness to try to seek happiness elsewhere, particularly as the '''wife''' of a man with large ears and no chin, who looked as if he were about to start in the two-thirty race at Kempton Park.
+# The [[female]] of a pair of [[mated]] [[animal]]s.
+#: {{ux|en|A new '''wife''' for the gander is introduced into the pen.}}
+
+====Usage notes====
+Although mostly used only humorously, ''wife'' can be used with ''the'' to indicate one's own wife. For instance, "I'd like to go, but the '''wife''' wants me home." More commonly, "my wife".
+
+====Synonyms====
+* {{sense|married woman}} [[better half]], [[life partner]], [[little woman]] {{qualifier|slang}}, [[partner]], [[significant other]], [[spouse]]
+* See also [[Wikisaurus:wife]]
+
+====Antonyms====
+* {{sense|married woman}} [[husband]], [[were]] {{pos_n}} {{qualifier|obsolete}}
+
+====See also====
+* [[uxorial]]
+
+====Derived terms====
+{{rel-top|Terms derived from the noun "wife"}}
+* (From woman) [[alewife]]
+* (partner) [[co-wife]]
+* (partner) [[ex-wife]]
+* (woman) [[fishwife]] {{pos_n}}
+* (woman) [[goodwife]]
+* (partner) [[housewife]]
+* (partner) [[huswife]]
+* (partner) [[man and wife]]/[[I now declare you man and wife]]
+* (woman) [[midwife]]
+* (woman) [[old wife]]/[[old-wife]]/[[oldwife]]
+{{rel-mid}}
+* (woman) [[pudding-wife]]
+* [[seawife]]
+* [[sister-wife]]
+* [[spaewife]]
+* (partner) [[trophy wife]]
+* (partner) [[wife-beater]] {{pos_n}}
+* (woman/partner) [[wifehood]] {{pos_n}}
+* (partner) [[wifeless]] {{pos_adj}}
+* (woman) [[wifely]] {{pos_adj}}
+* (partner) [[wifey]] {{pos_n}}
+{{rel-bottom}}
+{{lookfrom|wife}}
+
+====Translations====
+{{trans-top|married woman}}
+* Abkhaz: {{t|ab|аҳәса|sc=Cyrl}}, {{t|ab|аԥҳәыс|sc=Cyrl}}
+* Afrikaans: {{t+|af|vrou}}
+* Ainu: {{t|ain|マチ|tr=maci}}
+* Albanian: {{t+|sq|grua|f}}
+* Alviri-Vidari: {{qualifier|Vidari}} {{t|avd|زینه|tr=zine}}
+* Amharic: {{t|am|ሚስት|sc=Ethi}}
+* Arabic: {{t|ar|زَوْجَة|f}}
+*: Hijazi Arabic: {{t|acw|زُوجَة|f|tr=zōja}}
+*: Egyptian Arabic: {{t|arz|زَوْجَة|f|tr=zawga}}, {{t|arz|مرات|f|tr=merat|sc=Arab}}
+* Armenian: {{t+|hy|կին|sc=Armn}}
+* Aromanian: {{t|rup|ãnveastã|f}}, {{t|rup|sutsãlji}}, {{t|rup|nicuchirã|f}}
+* Asturian: {{t+|ast|muyer|f}}, {{t+|ast|esposa|f}}
+* Azeri: {{t+|az|arvad}}
+* Bashkir: {{t|ba|ҡатын|sc=Cyrl}}
+* Basque: {{t+|eu|emazte}}
+* Belarusian: {{t|be|жо́нка|f}}
+* Bengali: {{t+|bn|স্ত্রী|tr=stri|sc=Beng}}, {{t|bn|পত্নী|tr=pôtni|sc=Beng}}
+* Betawi: {{t|bew|bini}}
+* Breton: {{t+|br|gwreg|f}}
+* Bulgarian: {{t+|bg|жена́|f}}, {{t+|bg|съпру́га|f}}
+* Burmese: {{t+|my|မယား|tr=ma.ya:|sc=Mymr}}, {{t+|my|ဇနီး|tr=ja.ni:|sc=Mymr}} {{qualifier|formal}}
+* Catalan: {{t+|ca|dona|f}}, {{t|ca|muller|f}}
+* Chechen: {{t|ce|зуда}}
+* Chinese:
+*: Cantonese: {{t|yue|妻子|tr=cai1 zi2|sc=Hani}} {{qualifier|formal}}, {{t|yue|老婆|tr=lou5 po4|sc=Hani}}, {{t|yue|太太|tr=taai3 taai3-2|sc=Hani}} {{qualifier|polite}}
+*: Dungan: {{t|dng|лопә|tr=lopeh|sc=Cyrl}}, {{t|dng|лопәр|tr=lopehr|sc=Cyrl}}
+*: Hakka: {{t|hak|餔娘|tr=pû-ngiòng|sc=Hani}}, {{t|hak|太太|tr=thai-thai|sc=Hani}}, {{t|hak|老姐|tr=ló-chiá|sc=Hani}}
+*: Mandarin: {{t+|cmn|妻子|tr=qīzi|sc=Hani}}, {{t+|cmn|老婆|tr=lǎopo|sc=Hani}} {{qualifier|colloquial}}, {{t+|cmn|愛人|sc=Hani}}, {{t+|cmn|爱人|tr=àiren|sc=Hani}} {{qualifier|PRC, husband or wife}}, {{t+|cmn|太太|tr=tàitai|sc=Hani}} {{qualifier|polite}}
+*: Min Nan: {{t+|nan|某|tr=bóo|sc=Hani}}, {{t+|nan|某囝|tr=bó͘-kiáⁿ|sc=Hani}}, {{t+|nan|家後|tr=ke-āu|sc=Hani}}, {{t+|nan|牽手|tr=khan-chhiú|sc=Hani}}, {{t|nan|牽的|tr=khan--ê|sc=Hani}}, {{t+|nan|太太|tr=thài-thài|sc=Hani}}, {{t+|nan|查某人|tr=cha-bó͘-lâng|sc=Hani}}
+*:: Teochew: {{t|nan|某|tr=bhou2|sc=Hani}}, {{t|nan|老婆|tr=lao6 pua5|sc=Hani}}
+* Coptic:
+*: Bohairic: {{t|cop|ⲥϩⲓⲙⲉ|f|tr=shimi}}
+*: Sahidic: {{t|cop|ϩⲓⲙⲉ|f|tr=hime}}
+* Cornish: {{t|kw|gwreg}}
+* Crimean Tatar: {{t|crh|apaqay|f}}, {{t|crh|apay|f}}
+* Czech: {{t+|cs|manželka|f}}, {{t+|cs|žena|f}}
+* Dalmatian: {{t|dlm|mojer|f}}, {{t|dlm|molier|f}}, {{t|dlm|mulir|m}}
+* Danish: {{t+|da|hustru|c}}, {{t+|da|kone|c}}, {{t|da|frue|c}}
+* Dutch: {{t+|nl|vrouw|f}}, {{t+|nl|echtgenote|f}}
+* Egyptian: {{t|egy|snt|sc=Egyp}}
+*: <hiero>sn-n:t-B1</hiero>
+* Erzya: {{t|myv|ни}}
+* Esperanto: {{t+|eo|edzino}}
+* Estonian: {{t+|et|naine}}
+* Faliscan: {{t|xfa|uxo|sc=Ital}}
+* Faroese: {{t|fo|kona|f}}, {{t|fo|vív|n}}
+* Finnish: {{t+|fi|vaimo}}, {{t+|fi|aviovaimo}}
+* French: {{t+|fr|femme|f}}, {{t+|fr|épouse|f}}
+* Friulian: {{t|fur|femine|f}}, {{t|fur|muîr|f}}, {{t|fur|cristiane|f}}
+* Georgian: {{t|ka|ცოლი}}
+* German: {{t+|de|Ehefrau|f}}, {{t+|de|Frau|f}}, {{t|de|Eheweib|n}}, {{t+|de|Weib|n}}, {{t+|de|Gemahlin|f}}, {{t+|de|Gattin|f}}
+* Gothic: {{t|got|𐌵𐌴𐌽𐍃|f|sc=Goth}}
+* Greek: {{t+|el|σύζυγος|f}}, {{t+|el|γυναίκα|f}}, {{t+|el|συμβία|f}}
+* Greenlandic: {{t|kl|nuliaq}}
+* Guaraní: {{t|gn|embireko}} (t-)
+* Gujarati: {{t|gu|પત્ની|f|tr=patnī|sc=Gujr}}
+* Hausa: {{t|ha|matar aure}}
+* Hawaiian: {{t|haw|wahine}}
+* Hebrew: {{t+|he|אִשָּׁה|f|tr=ishá}}, {{t|he|בַּת זוּג|f|tr=bat zúg}}
+* Hindi: {{t+|hi|पत्नी|f|tr=patnī}}, {{t|hi|बीवी|f|tr=bīvī}}
+* Hungarian: {{t+|hu|asszony}}, {{t+|hu|feleség}}
+* Icelandic: {{t+|is|eiginkona|f}}, {{t+|is|kona|f}}
+* Ido: {{t+|io|spozino}}
+* Indonesian: {{t+|id|istri}}
+*: Sundanese: {{t|su|garwa}}, {{t|su|bojo}}, {{t|su|pamajikan}}
+* Ingush: {{t|inh|цӏен-нана}}
+* Interlingua: {{t|ia|sponsa}}, {{t|ia|sposa}}, {{t|ia|uxor}}
+* Irish: {{t+|ga|bean|f}}, {{t|ga|bean chéile|f}}
+* Istriot: {{t|ist|muier|f}}
+* Italian: {{t+|it|sposa|f}}, {{t+|it|moglie|f}}
+* Japanese: {{t+|ja|妻|tr=つま, tsuma}}, {{t|ja|家内|tr=かない, kanai}} {{qualifier|only for speaker's}}, {{t|ja|ワイフ|tr=waifu|sc=Jpan}}, {{t|ja|奥さん|tr=おくさん, okusan}} {{qualifier|traditionally except for speaker's}}, {{t|ja|奥様|tr=おくさま, okusama}} {{qualifier|except for speaker's, honorific}}, {{t+|ja|夫人|tr=ふじん, fujin}} {{qualifier|humble}}, {{t|ja|ご夫人|tr=ごふじん, go-fujin}} {{qualifier|honorific}}
+* Kamba: {{t|kam|kiveti}}
+* Kannada: {{t+|kn|ಪತ್ನಿ|sc=Knda}}
+* Kazakh: {{t+|kk|әйел|sc=Cyrl}}, {{t|kk|жар|sc=Cyrl}}, {{t|kk|қатын|sc=Cyrl}}
+* Khmer: {{t+|km|ប្រពន្ធ|tr=prɑpʊən|sc=Khmr}}, {{t+|km|ភរិយា|sc=Khmr|tr=pʰeariyie}}
+* Kikuyu: {{t|ki|mutumia}}
+* Korean: {{t+|ko|아내|sc=Hang}}, {{t+|ko|집사람|sc=Hang}} {{qualifier|humble}}, {{t+|ko|마누라|sc=Hang}} {{qualifier|humble}}, {{t|ko|와이프|sc=Kore}}, {{t+|ko|부인|sc=Hang}} {{qualifier|honorific}}
+* Krio: {{t|kri|wef}}
+* Kurdish: {{t+|ku|jin}}, {{t+|ku|kebanî}}, {{t+|ku|xanim}}, {{t+|ku|ژن|sc=ku-Arab}}, {{t+|ku|خێزان|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|аял|sc=Cyrl}}, {{t|ky|катын|sc=Cyrl}}
+* Ladin: {{t|lld|femena|f}}
+{{trans-mid}}
+* Lao: {{t|lo|ເມຍ|tr=mia|sc=Laoo}}
+* Latgalian: {{t-needed|ltg}}
+* Latin: {{t+|la|uxor|f}}, {{t|la|nupta|f}}, {{t+|la|femina|f}}, {{t+|la|mulier|f}}, {{t|la|marita|f}}, {{t|la|coniunx|f}}
+* Latvian: {{t+|lv|sieva}}, {{t|lv|dzīvesbiedre|f}}, {{t|lv|dzīvesbiedrene|f}}
+* Lithuanian: {{t+|lt|pati|f}}, {{t+|lt|žmona|f}}
+* Luganda: {{t|lg|mukyala wange}}
+* Luhya: {{t|luy|omkhasi}}
+* Lycian: {{t|xlc|𐊍𐊀𐊅𐊀|tr=lada|sc=Lyci}}
+* Macedonian: {{t|mk|же́на|f}}, {{t|mk|со́пруга|f}}
+* Malagasy: {{t+|mg|andefimandry}}, {{t+|mg|tokantrano}}
+* Malay: {{t|ms|isteri}}, {{t|ms|bini}}
+* Malayalam: {{t+|ml|ഭാര്യ|sc=Mlym}}, , {{t+|ml|ഭാര്യ|sc=Mlym}}, {{t+|ml|പത്നി|f|sc=Mlym}}
+* Maltese: {{t+|mt|mara|f}}
+* Manx: {{t|gv|ben-phoost}}
+* Maori: {{t|mi|hoa wahine}}
+* Marathi: {{t|mr|नवरी|tr=navrī}}
+* Megleno-Romanian: {{t|ruq|niveastă|f}}
+* Mongolian: {{t+|mn|гэргий|sc=Cyrl}}, {{t+|mn|эхнэр|sc=Cyrl}}
+* Navajo: {{t|nv|hweʼesdzáán}}
+* Neapolitan: {{t|nap|mugliera|f}}
+* Nepali: {{t|ne|पत्नी|tr=patnī|sc=Deva}}
+* Norman: {{t|nrf|faume|f}} {{qualifier|Guernsey}}, {{t|nrf|bouônnefemme|f}} {{qualifier|Jersey}}
+* Norwegian: {{t|no|hustru}}, {{t+|no|kone}}, {{t+|no|frue}}
+* Novial: {{t|nov|marita}}
+* Occitan: {{t-needed|oc}}
+* Ojibwe: {{t|oj|niwiidigemaagan}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|жєна|f|sc=Cyrs}}
+*: Glagolitic: {{t|cu|ⰶⰵⱀⰰ|f|tr=žena|sc=Glag}}
+* Old East Slavic: {{t|orv|жєна|f}}
+* Old English: {{t|ang|cwene}}, {{t|ang|cwēn}}
+* Old French: {{t|fro|fame}}, {{t|fro|fam}}
+* Oriya: {{t-needed|or}}
+* Ossetian: {{t|os|бинойнаг|sc=Cyrl}}, {{t|os|ус|sc=Cyrl}}
+* Persian: {{t+|fa|زن|tr=zan}}
+* Polish: {{t+|pl|żona|f}}, {{t+|pl|małżonka|f}}
+* Portuguese: {{t+|pt|esposa|f}}, {{t+|pt|mulher|f}}
+* Punjabi: {{t|pa|ਪਤਨੀ|tr=patnī|sc=Guru}}
+* Romanian: {{t+|ro|soție|f}}, {{t+|ro|nevastă|f}}, {{t+|ro|muiere}}
+* Romansch: {{t|rm|dunna|f}}, {{t|rm|duonna|f}}, {{t|rm|cunsorta|f}}, {{t|rm|duna|f}}, {{t|rm|donna|f}}
+* Russian: {{t+|ru|жена́|f}}, {{t+|ru|супру́га|f}}
+* Rusyn: {{t|rue|жона́|f}}
+* Sanskrit: {{t+|sa|पत्नी|f|tr=patni|sc=Deva}}, {{t+|sa|भार्या|f|tr=bharya|sc=Deva}}, {{t|sa|दयिता|f|tr=dayitaa|sc=Deva}}, {{t+|sa|जाया|f|tr=jaayaa|sc=Deva}}, {{t|sa|वल्लभा|f|tr=vallabha|sc=Deva}}
+* Santali: {{t|sat|ᱨᱤᱱᱤᱡ|tr=rinic'|sc=Olck}}, {{t|sat|ᱮᱨᱚ|tr=era|sc=Olck}}
+* Sardinian: {{t|sc|mugere|f}}, {{t|sc|mullei|f}}, {{t|sc|mulleri|f}}, {{t|sc|mutzere|f}}, {{t|sc|muzere|f}}
+* Scots: {{t|sco|guidwife}}
+* Scottish Gaelic: {{t|gd|bean-chèile|f}}, {{t|gd|bean-phòsda|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|жена|f|sc=Cyrl}}, {{t|sh|супруга|f|sc=Cyrl}}
+*: Roman: {{t+|sh|žena|f|sc=Latn}}, {{t+|sh|supruga|f|sc=Latn}}
+* Sicilian: {{t+|scn|mugghieri|f}}
+* Sinhalese: {{t|si|බිරිඳ|sc=Sinh}}, {{t|si|භාර්යාව|sc=Sinh}}, {{t|si|පවුල|sc=Sinh}}
+* Slovak: {{t+|sk|manželka|f}}, {{t+|sk|žena|f}}
+* Slovene: {{t+|sl|žena|f}}, {{t|sl|soproga|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|žeńska|f}}, {{t|dsb|žona|f}}
+*: Upper Sorbian: {{t+|hsb|žona|f}}
+* Spanish: {{t+|es|esposa|f}}, {{t+|es|mujer|f}}
+* Swahili: {{t+|sw|mke}} (1/2)
+* Swedish: {{t+|sv|hustru}}, {{t+|sv|maka}}, {{t+|sv|fru}}
+* Tagalog: {{t|tl|esposa}}, {{t|tl|babaeng asawa}}
+* Tajik: {{t+|tg|зан|sc=Cyrl}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|ژن|tr=žen}}
+* Tamil: {{t+|ta|மனைவி}}, {{t+|ta|பொண்டாட்டி}}
+* Taos: {{t|twf|łȉwéna}}
+* Tatar: {{t+|tt|хатын|sc=Cyrl}}
+* Telugu: {{t+|te|పెళ్ళాం}}, {{t+|te|భార్య}}, {{t+|te|ఆలి}}
+* Thai: , {{t+|th|ภริยา|tr=phariya|sc=Thai}}
+* Tocharian A: {{t|xto|śäṃ}}
+* Tocharian B: {{t|txb|śana}}
+* Tupinambá: {{t|tpn|emirekó}} (t-)
+* Turkish: {{t+|tr|karı}}, {{t+|tr|avrat}}
+* Turkmen: {{t+|tk|aýal}}
+* Ukrainian: {{t|uk|дружи́на|f}}, {{t+|uk|жі́нка|f}} {{qualifier|colloquial}}
+* Urdu: {{t|ur|بيوی|f|tr=bīvī}}, {{t|ur|پتنی|f|tr=patnī}}
+* Uzbek: {{t+|uz|xotin}}
+* Venetian: {{t|vec|mojer|f}}, {{t|vec|mojere|f}}
+* Vietnamese: {{t+|vi|vợ}}, {{t|vi|người vợ}}, {{t+|vi|phu nhân}}
+* Volapük: {{t+|vo|jimatan}}
+* Walloon: {{t+|wa|feme|f}}
+* Welsh: {{t+|cy|gwraig|f}}
+* West Frisian: {{t+|fy|wiif}}, {{t+|fy|frou}}
+* Wolof: {{t|wo|jabar ji}}, {{t|wo|iyawo}}
+* Yiddish: {{t|yi|ווײַב|n|sc=Hebr}} or {{g|f}}, {{t|yi|פֿרוי|f|sc=Hebr}}
+* Yoruba: {{t|yo|iyawo}}
+* Zazaki: {{t|zza|pir}}, {{t|zza|cınék}}, {{t|zza|xatun}}, {{t|zza|khatun}}
+* Zhuang: {{t-needed|za}}
+* Zulu: {{t|zu|umka|alt=umka-|c1a|c2a}}, {{t|zu|inkosikazi|c9|c6}}, {{t|zu|unkosikazi|c1a|c2a}}
+* ǃXóõ: {{t|nmn|tâa qáe}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Western Mashan Hmong: {{t-check|hmw|pojniam}}
+{{trans-bottom}}
+
+===See also===
+* {{pedialite}}
+
+===References===
+* {{R:New Geordie Dictionary 1987}}
+<references/>
+
+===Statistics===
+* {{rank|perhaps|state|says|308|wife|hear|least|person}}
+
+[[Category:1000 English basic words]]
+[[Category:en:Family]]
+[[Category:en:Female]]
+
+----
+
+==Scots==
+
+===Etymology===
+From {{etyl|ang|sco}} {{m|ang|wīf||woman}}.
+
+===Noun===
+{{sco-noun}}
+
+# [[woman]]
+
+====Derived terms====
+{{der-top}}
+* {{l|sco|auld wife|gloss=old woman; gossip; rotating chimney-cowl}}
+* {{l|sco|fishwife|gloss=fishwife, derogatory for a woman of coarse behaviour, temperament and vocabulary}}
+* {{l|sco|guidwife|gloss=wife, the mistress of a house, a landlady of an inn}}
+* {{l|sco|henwife|gloss=a woman in charge of hens}}
+* {{l|sco|housewifeskip|gloss=housewifery}}
+{{der-mid}}
+* {{l|sco|spaewife|gloss=female fortune teller}}
+* {{l|sco|washerwife|gloss=washerwoman}}
+* {{l|sco|weedae-wife|gloss=widow}}
+* {{l|sco|weirdwife|gloss=prophetess, fortune-teller}}
+{{der-bottom}}
+
+[[Category:sco:People]]
+[[Category:sco:Female]]
+
+[[af:wife]]
+[[roa-rup:wife]]
+[[ast:wife]]
+[[zh-min-nan:wife]]
+[[ca:wife]]
+[[cs:wife]]
+[[cy:wife]]
+[[da:wife]]
+[[de:wife]]
+[[et:wife]]
+[[el:wife]]
+[[es:wife]]
+[[eo:wife]]
+[[eu:wife]]
+[[fa:wife]]
+[[fr:wife]]
+[[fy:wife]]
+[[gl:wife]]
+[[ko:wife]]
+[[hy:wife]]
+[[hi:wife]]
+[[hr:wife]]
+[[io:wife]]
+[[id:wife]]
+[[it:wife]]
+[[kn:wife]]
+[[ka:wife]]
+[[kk:wife]]
+[[rw:wife]]
+[[sw:wife]]
+[[ku:wife]]
+[[lo:wife]]
+[[la:wife]]
+[[lv:wife]]
+[[lt:wife]]
+[[li:wife]]
+[[ln:wife]]
+[[hu:wife]]
+[[mg:wife]]
+[[ml:wife]]
+[[my:wife]]
+[[fj:wife]]
+[[nl:wife]]
+[[ja:wife]]
+[[no:wife]]
+[[oc:wife]]
+[[pl:wife]]
+[[pt:wife]]
+[[ro:wife]]
+[[qu:wife]]
+[[ru:wife]]
+[[sm:wife]]
+[[sa:wife]]
+[[sq:wife]]
+[[simple:wife]]
+[[fi:wife]]
+[[sv:wife]]
+[[ta:wife]]
+[[te:wife]]
+[[th:wife]]
+[[chr:wife]]
+[[tr:wife]]
+[[vi:wife]]
+[[zh:wife]]

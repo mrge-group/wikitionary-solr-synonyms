@@ -1,0 +1,110 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|trety}}, {{m|enm|tretee}}, from {{etyl|fro|en}} {{m|fro|traitié}}, {{m|fro|traiete}}, from {{etyl|la|en}} ''[[tractatus]]'', from ''[[tractare]]''.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/ˈtɹiːti/|lang=en}}
+* {{a|Ireland}} {{IPA|/ˈtɹiːti/|lang=en}} or {{IPA|/ˈtɹiːəti/|lang=en}}
+* {{a|US}} {{IPA|/ˈtɹiːdi/|lang=en}}
+* {{audio|en-us-treaty.ogg|Audio (US)|lang=en}}
+* {{rhymes|iːti|lang=en}}
+
+===Noun===
+{{en-noun|treaties}}
+
+# {{label|en|international law}} A binding [[agreement]] concluded by subjects of international law, namely states and international organizations.
+# A [[formal]] [[agreement]] between two or more [[states]].
+
+====Synonyms====
+* [[international agreement]]
+* [[protocol]]
+* [[covenant]]
+* [[convention]]
+* [[exchange of letters]]
+* [[exchange of note]]
+
+====Related terms====
+* [[treat]]
+* [[treatable]]
+* [[treatment]]
+* [[treatise]]
+
+====Translations====
+{{trans-top|a binding agreement under international law}}
+* Arabic: {{t+|ar|مُعَاهَدَة|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|條約|sc=Hani}}, {{t+|cmn|条约|tr=tiáoyuē|sc=Hani}}
+* Czech: {{t+|cs|mezinárodní smlouva|f}}
+* Dutch: {{t+|nl|verdrag}}, {{t+|nl|overeenkomst}}, {{t+|nl|traktaat}}
+* Finnish: {{t+|fi|sopimus}}
+* French: {{t+|fr|traité|m}}
+* Galician: {{t|gl|tratado|m}}
+* Georgian: {{t|ka|ხელშეკრულება}}, {{t+|ka|ზავი}}
+* German: {{t+|de|Vertrag|m}}, {{t+|de|Bündnis|n}}
+* Greek: {{t+|el|συνθήκη|f}}
+* Hungarian: {{t+|hu|szerződés}}
+* Indonesian: {{t+|id|traktat}}, {{t+|id|perjanjian}}
+* Irish: {{t|ga|conradh|m}}
+{{trans-mid}}
+* Italian: {{t+|it|trattato|m}}
+* Japanese: {{t+|ja|条約|tr=じょうやく, jōyaku|sc=Jpan}}
+* Khmer: {{t|km|សន្ធិសញ្ញា|tr=santhi sanha|sc=Khmr}}
+* Korean: {{t+|ko|조약|sc=Kore}} ({{t+|ko|條約|sc=Kore}})
+* Norwegian: {{t|no|traktat|m}}
+* Persian: {{t+|fa|معاهده|tr=mo'âhade|sc=fa-Arab}}
+* Polish: {{t+|pl|traktat}}, {{t+|pl|umowa}}
+* Portuguese: {{t+|pt|tratado|m}}, {{t+|pt|acordo|m}}
+* Romanian: {{t+|ro|tratat|n}}
+* Russian: {{t+|ru|догово́р|m}}, {{t+|ru|до́говор|m}}
+* Scottish Gaelic: {{t|gd|cùmhnant|m}}
+* Spanish: {{t+|es|tratado|m}}
+* Swedish: {{t+|sv|fördrag|n}}
+* Telugu: {{t+|te|ఒడంబడిక|tr=oDambaDika}}
+* Turkish: {{t+|tr|sözleşme}}, {{t+|tr|antlaşma}}, {{t+|tr|mukavele}} {{qualifier|law}}, {{t+|tr|akit}} {{qualifier|archaic}}
+{{trans-bottom}}
+
+===External links===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
+
+===Anagrams===
+* [[yatter#English|yatter]]
+
+[[cs:treaty]]
+[[da:treaty]]
+[[de:treaty]]
+[[et:treaty]]
+[[el:treaty]]
+[[es:treaty]]
+[[fa:treaty]]
+[[fr:treaty]]
+[[ko:treaty]]
+[[hy:treaty]]
+[[hr:treaty]]
+[[io:treaty]]
+[[it:treaty]]
+[[kn:treaty]]
+[[kk:treaty]]
+[[ku:treaty]]
+[[lo:treaty]]
+[[li:treaty]]
+[[hu:treaty]]
+[[mg:treaty]]
+[[ml:treaty]]
+[[my:treaty]]
+[[ja:treaty]]
+[[km:treaty]]
+[[pl:treaty]]
+[[pt:treaty]]
+[[ru:treaty]]
+[[simple:treaty]]
+[[fi:treaty]]
+[[ta:treaty]]
+[[te:treaty]]
+[[chr:treaty]]
+[[uk:treaty]]
+[[vi:treaty]]
+[[zh:treaty]]

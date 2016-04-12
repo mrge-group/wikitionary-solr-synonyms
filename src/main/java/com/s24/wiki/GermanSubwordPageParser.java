@@ -6,9 +6,9 @@ import java.util.regex.Pattern;
 
 import edu.jhu.nlp.wikipedia.WikiPage;
 
-public class SubwordPageParser extends PageParser {
+public class GermanSubwordPageParser extends GermanPageParser {
 
-   public SubwordPageParser(PageParserCallback cb) {
+   public GermanSubwordPageParser(PageParserCallback cb) {
       super(cb);
    }
 
@@ -21,7 +21,7 @@ public class SubwordPageParser extends PageParser {
          List<String> right = new ArrayList<String>();
          final List<String> left = new ArrayList<String>();
 
-         PageParser grammar = new GrammarPageParser(new PageParserCallback() {
+         PageParser grammar = new GermanGrammarPageParser(new PageParserCallback() {
 
             @Override
             public void callback(List<String> l, List<String> r) {
