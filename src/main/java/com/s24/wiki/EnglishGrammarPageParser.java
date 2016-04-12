@@ -17,11 +17,13 @@ import edu.jhu.nlp.wikipedia.WikiPage;
 public class EnglishGrammarPageParser extends PageParser {
 
    private final static Pattern pattern = Pattern.compile("\\{\\{en-noun\\|(.*)\\}\\}");
-   private final static CharMatcher illegalStems = CharMatcher.anyOf("|~-?!");
-   private final static CharMatcher illegalCharacters = CharMatcher.anyOf("'%&/.´`*$@");
+   private final static CharMatcher regularStems = CharMatcher.anyOf("|~-?!");
+   private final static CharMatcher illegalCharacters = CharMatcher.anyOf("'%&/.´`*$@{");
+   private final boolean includeRegularStems;
 
-   public EnglishGrammarPageParser(PageParserCallback cb) {
+   public EnglishGrammarPageParser(PageParserCallback cb, boolean includeRegularStems) {
       super(cb);
+      this.includeRegularStems = includeRegularStems;
    }
 
    @Override
@@ -44,26 +46,28 @@ public class EnglishGrammarPageParser extends PageParser {
 
             // no illegal stems (identical, nostem)
             for (String s : Splitter.on('|').trimResults().split(stem)) {
-               if (!illegalStems.matchesAllOf(s)
+               if (!regularStems.matchesAllOf(s)
                      && !illegalCharacters.matchesAnyOf(s)
                      && !CharMatcher.DIGIT.matchesAnyOf(s)) {
                   if ("s".equalsIgnoreCase(s) || "es".equalsIgnoreCase(s)) {
-                     left.add(word + s);
+                     if (includeRegularStems) {
+                        left.add(word + s);
+                     }
                   } else {
                      left.add(s);
                   }
-               } else if ("-".equals(s)) {
+               } else if (includeRegularStems && "-".equals(s)) {
                   left.add(word + "s");
-               } else if ("~".equals(s)) {
+               } else if (includeRegularStems && "~".equals(s)) {
                   left.add(word + "s");
                }
             }
-         } else {
+         } else if (includeRegularStems) {
             left.add(word + "s");
          }
       }
 
-      System.out.println("Found: " + StringUtils.join(left, ",") + " => " + right.iterator().next());
+//      System.out.println("Found: " + StringUtils.join(left, ",") + " => " + right.iterator().next());
       callback.callback(Lists.newArrayList(left), Lists.newArrayList(right));
    }
 

@@ -23,7 +23,7 @@ public class EnglishGrammarPageParserTest {
    
    @Before
    public void setUp() throws Exception {
-      parser = new EnglishGrammarPageParser(callback);
+      parser = new EnglishGrammarPageParser(callback, true);
    }
    
    @Test

@@ -45,7 +45,7 @@ public class SolrEnglishSynonyms {
                stemmap.put("\"" + StringUtils.join(left, "\",\"") + "\"", right.get(0));
             }
          }
-      }));
+      }, false));
 
       // parse dump
       wp.parse(args[0]);
@@ -53,11 +53,11 @@ public class SolrEnglishSynonyms {
       // write stems
       try {
          SortedSet<String> keys = new TreeSet<String>(stemmap.keySet());
-         FileUtils.writeStringToFile(stemout, "delete from normalization where type='stemming-wiktionary-en';\n", "utf-8");
+         FileUtils.writeStringToFile(stemout, "delete from normalization where type='stemming-wiktionary-en-irregular';\n", "utf-8");
 
          for (String key : keys) {
             FileUtils.writeStringToFile(stemout,
-                  "insert into normalization (type, origin, normalization, modified_by, modified_at, active) values ('stemming-wiktionary-en', '{"
+                  "insert into normalization (type, origin, normalization, modified_by, modified_at, active) values ('stemming-wiktionary-en-irregular', '{"
                         + key
                         + "}','"
                         + stemmap.get(key)
