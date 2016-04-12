@@ -37,7 +37,7 @@ public class EnglishGrammarPageParser extends PageParser {
       // legal words ony
       if (!illegalCharacters.matchesAnyOf(word)
             && !CharMatcher.DIGIT.matchesAnyOf(word)) {
-         
+
          // explcit plural given
          if (matcher.find()) {
             String stem = matcher.group(1).toLowerCase(Locale.US);
@@ -52,6 +52,10 @@ public class EnglishGrammarPageParser extends PageParser {
                   } else {
                      left.add(s);
                   }
+               } else if ("-".equals(s)) {
+                  left.add(word + "s");
+               } else if ("~".equals(s)) {
+                  left.add(word + "s");
                }
             }
          } else {
@@ -59,7 +63,7 @@ public class EnglishGrammarPageParser extends PageParser {
          }
       }
 
-//      System.out.println("Found: " + StringUtils.join(left, ",") + " => " + right.iterator().next());
+      System.out.println("Found: " + StringUtils.join(left, ",") + " => " + right.iterator().next());
       callback.callback(Lists.newArrayList(left), Lists.newArrayList(right));
    }
 

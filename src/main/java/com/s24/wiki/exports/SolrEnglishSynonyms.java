@@ -53,7 +53,7 @@ public class SolrEnglishSynonyms {
       // write stems
       try {
          SortedSet<String> keys = new TreeSet<String>(stemmap.keySet());
-         FileUtils.writeStringToFile(stemout, "delete from normalization where type='stemming-wiktionary-en';\n");
+         FileUtils.writeStringToFile(stemout, "delete from normalization where type='stemming-wiktionary-en';\n", "utf-8");
 
          for (String key : keys) {
             FileUtils.writeStringToFile(stemout,

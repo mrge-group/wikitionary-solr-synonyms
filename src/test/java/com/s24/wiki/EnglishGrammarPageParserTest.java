@@ -55,6 +55,16 @@ public class EnglishGrammarPageParserTest {
       
       parser.parse(p);
    }
+
+   @Test
+   public void testBridge() throws Exception {
+      String wife = CharStreams.toString(new InputStreamReader(getClass().getResourceAsStream("/bridge.txt"), Charsets.UTF_8));
+      WikiPage p = new WikiPage();
+      p.setTitle("bridge");
+      p.setWikiText(wife);
+      
+      parser.parse(p);
+   }
    
 
 }

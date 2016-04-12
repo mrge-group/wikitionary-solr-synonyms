@@ -1,0 +1,674 @@
+{{also|Bridge}}
+==English==
+[[File:CH Landwasser 2.jpg|thumb|A bridge (sense 1)]]
+
+===Alternative forms===
+* [[bridg]] {{qualifier|obsolete}}
+
+===Pronunciation===
+{{wikipedia|dab=Bridge (disambiguation)|Bridge}}
+* {{IPA|/bɹɪd͡ʒ/|lang=en}}
+* {{audio|en-us-bridge.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɪdʒ|lang=en}}
+
+===Etymology 1===
+From {{etyl|enm|en}} {{m|enm|brigge}}, from {{etyl|ang|en}} {{m|ang|brycġ||bridge}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*brugjō}}, {{m|gem-pro|*brugjǭ||bridge}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰerw-}}, {{m|ine-pro|*bʰrēw-||wooden flooring, decking, bridge}}.
+
+Cognate with {{etyl|sco|-}} {{m|sco|brig}}, {{m|sco|brigg}}, {{m|sco|breeg||bridge}}, {{etyl|stq|-}} {{m|stq|Brääch||bridge}}, West Frisian {{m|fy|brêge||bridge}}, Dutch {{m|nl|brug||bridge}}, German {{m|de|Brücke||bridge}}, {{etyl|da|-}} {{m|da|bro||bridge}} and {{m|da|brygge||wharf}}, {{etyl|is|-}} {{m|is|brú||bridge}} and {{m|is|brygga||pier}}, Gaulish {{m|cel-gau||bríva|bridge}}, {{etyl|sh|-}} {{m|sh|brv||bridge, crossbar}}, Old Church Slavonic {{m|cu|бръвъно||beam|sc=Cyrs}} and Russian {{m|ru|бревно́||log}}.
+
+The verb is from {{etyl|enm|en}} {{m|enm|briggen}}, from {{etyl|ang|en}} {{m|ang|brycġian||to bridge, make a causeway, pave}}, derived from the noun. Cognate with {{etyl|nl|-}} {{m|nl|bruggen||to bridge}}, {{etyl|gml|-}} {{m|gml|bruggen||to bridge}}, {{etyl|goh|-}} {{m|goh|bruccōn||to bridge}} (whence Modern German {{m|de|brücken}}).
+
+====Noun====
+[[File:48 - Mende - Pont Notre-Dame.jpg|thumb|A bridge (sense 1)]][[File:Violin bridge.jpg|thumb|right|The bridge of a violin]]
+{{en-noun}}
+
+# A [[construction]] or [[natural]] [[feature]] that [[span]]s a [[divide]].
+#: {{ux|en|The rope '''bridge''' crosses the river.}}
+#* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
+|title={{w|The Celebrity}}|chapter=8
+|passage=Now we plunged into a deep shade with the boughs lacing each other overhead, and crossed dainty, rustic '''bridges''' over the cold trout-streams, the boards giving back the clatter of our horses' feet: or anon we shot into a clearing, with a colored glimpse of the lake and its curving shore far below us.}}
+#* {{quote-magazine|date=2013-06-29|volume=407|issue=8842|page=28|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/asia/21580209-natural-disaster-aggravated-poor-response-high-and-wet High and wet]
+|passage=Floods in northern India, mostly in the small state of Uttarakhand, have wrought disaster on an enormous scale. The early, intense onset of the monsoon on June 14th swelled rivers, washing away roads, '''bridges''', hotels and even whole villages. Rock-filled torrents smashed vehicles and homes, burying victims under rubble and sludge.}}
+## {{senseid|en|bony ridge of the nose}}{{label|en|anatomy}} The [[upper]] [[bony]] [[ridge]] of the [[human]] [[nose]].
+##: {{ux|en|Rugby players often break the '''bridge''' of their noses.}}
+## {{label|en|dentistry}} A [[prosthesis]] replacing one or several adjacent [[tooth|teeth]].
+##: {{ux|en|The dentist pulled out the decayed tooth and put in a '''bridge'''.}}
+## {{label|en|bowling}} The gap between the holes on a bowling ball
+# An arch or superstructure.
+## {{label|en|nautical}} An [[elevated]] [[platform]] above the upper [[deck]] of a [[mechanically]] [[propel]]led [[ship]] from which it is [[navigate]]d and from which all activities on deck can be seen and controlled by the [[captain]], etc; smaller ships have a [[wheelhouse]], and [[sailing ship]]s were controlled from a [[quarterdeck]].
+##: {{ux|en|The first officer is on the '''bridge'''.}}
+## {{label|en|music}} The piece, on [[string instrument]]s, that supports the [[string]]s from the [[sounding board]].
+## {{label|en|billiards|snooker|pool}} A particular form of one hand placed on the table to support the [[cue]] when making a shot in cue sports.
+## {{label|en|billiards|snooker|pool}} A cue modified with a convex arch-shaped notched head attached to the narrow end, used to support a player's (shooter's) cue for extended or tedious shots. Also called a [[spider]].
+## Anything supported at the ends and serving to keep some other thing from resting upon the object spanned, as in engraving, watchmaking, etc., or which forms a platform or staging over which something passes or is conveyed.
+## {{label|en|wrestling}} A defensive [[position]] in which the [[wrestler]] is supported by his feet and head, belly-up, in order to prevent touch-down of the shoulders and eventually to [[dislodge]] an opponent who has established a position on top.
+# A connection, real or abstract.
+## {{label|en|medicine}} A rudimentary procedure before definite solution
+##: {{ux|en|ECMO is used as a '''bridge''' to surgery to stabilize the patient.}}
+## {{label|en|computing}} A device which connects two or more [[computer]] [[bus|buses]], typically in a transparent manner.
+##: {{ux|en|This chip is the '''bridge''' between the front-side bus and the I/O bus.}}
+## {{label|en|communication}} A system which connects two or more [[LAN|local area networks]] at layer 2.
+##: {{ux|en|The LAN '''bridge''' uses a spanning tree algorithm.}}
+## {{label|en|chemistry}} An [[intramolecular]] [[valence bond]], [[atom]] or [[chain]] of atoms that [[connect]]s two different parts of a [[molecule]]; the atoms so connected being [[bridgehead]]s.
+## {{label|en|electronics}} An unintended [[solder]] [[connection]] between two or more [[component]]s or pins.
+## {{label|en|music}} A song contained within another song, often demarcated by meter, key, or melody.
+##: {{ux|en|The lyrics in the song's '''bridge''' inverted its meaning.}}
+## {{label|en|graph theory}} An [[edge]] which, if [[remove]]d, changes a [[connected graph]] to one that is not connected.
+## {{label|en|poetry}} A point in a [[line]] where a [[break]] in a word unit cannot occur.
+## {{label|en|diplomacy}} A statement, such as an [[offer]], that signals a possibility of accord.
+## A day falling between two [[public holiday]]s and consequently designated as an additional holiday.
+# {{label|en|electronics}} Any of several [[electrical]] [[device]]s that [[measure]] characteristics such as [[impedance]] and [[inductance]] by [[balancing]] different parts of a [[circuit]]
+# A low wall or vertical partition in the fire chamber of a furnace, for deflecting flame, etc.; a [[bridge wall]].
+# A solid crust of undissolved salt in a [[water softener]].
+
+=====Derived terms=====
+{{rel-top|Terms derived from ''bridge'' (etymology 1)}}
+* [[Bailey bridge]]
+* [[bridge loan]]
+* [[bridge mount]]
+* [[bridge the gap]]
+* [[bridge over troubled waters]]
+* [[cross that bridge when one comes to it]]
+* [[drawbridge]]
+* [[footbridge]]
+* [[ice bridge]]
+* [[Kelvin bridge]]
+{{rel-mid}}
+* [[land bridge]]
+* [[low bridge]]
+* [[Maryland bridge]]
+* [[Schering bridge]]
+* [[suspension bridge]]
+* [[swing bridge]], [[swingbridge]]
+* [[water under the bridge]]
+* [[Wheatstone bridge]]
+* [[Wien bridge]]
+{{rel-bottom}}
+
+=====Translations=====
+{{trans-top|construction or natural feature that spans a divide}}
+* Abkhaz: {{t|ab|ацҳа|sc=Cyrl}}
+* Adyghe: {{t|ady|лъэмыдж}}
+* Afrikaans: {{t|af|brug}}
+* Akan: {{t|ak|twene}}
+* Albanian: {{t+|sq|urë|f}}
+* Amharic: {{t|am|ድልድይ|sc=Ethi}}
+* Arabic: {{t|ar|جِسْر|m}}
+*: Egyptian Arabic: {{t|arz|كوبري|m|tr=kobri|sc=Arab}}
+*: Moroccan Arabic: {{t|ary|قنطرة|f|tr=qənṭra}}
+* Aragonese: {{t+|an|puent|m}}
+* Aramaic:
+*: Hebrew: {{t|arc|גֶּשֶׁר|m|tr=gešer}}
+*: Classical Syriac: {{t|syc|ܓܫܪܐ|m|tr=gešrāʾ|sc=Syrc}}
+* Armenian: {{t+|hy|կամուրջ}}
+* Aromanian: {{t|rup|punti|f}}, {{t|rup|pumhi|f}}
+* Asturian: {{t|ast|ponte|f}}, {{t|ast|puente|m}}
+* Azeri: {{t+|az|körpü}}
+* Bashkir: {{t|ba|күпер|sc=Cyrl}}
+* Basque: {{t+|eu|zubi}}
+* Bats: {{t|bbl|ტივ}}
+* Belarusian: {{t|be|мост|m}}
+* Bengali: {{t|bn|পুল|tr=pul|sc=Beng}}
+* Breton: {{t+|br|pont|m}}
+* Bulgarian: {{t+|bg|мост|m}}
+* Burmese: {{t+|my|တံတား|sc=Mymr}}
+* Catalan: {{t+|ca|pont|m}}
+* Central Atlas Tamazight: {{t|tzm|ⵜⵉⵍⴳⴳⵯⵉⵜ|f}}
+* Chamicuro: {{t|ccc|pwente}}
+* Chechen: {{t|ce|тӏай}}
+* Chinese:
+*: Mandarin: {{t+|cmn|橋|sc=Hani}}, {{t+|cmn|桥|tr=qiáo|sc=Hani}}, {{t+|cmn|橋樑|sc=Hani}}, {{t+|cmn|桥梁|tr=qiáoliáng|sc=Hani}}
+* Chuvash: {{t|cv|кӗпер|sc=Cyrl}}
+* Crimean Tatar: {{t|crh|köpür}}
+* Czech: {{t+|cs|most|m}}
+* Dalmatian: {{t|dlm|puant|m}}
+* Danish: {{t+|da|bro|c}}
+* Dhivehi: {{t|dv|ފާލަން|sc=Thaa}}
+* Dutch: {{t+|nl|brug}}
+* Erzya: {{t|myv|сэдь}}
+* Esperanto: {{t|eo|ponto}}
+* Estonian: {{t+|et|sild}}
+* Faroese: {{t|fo|brúgv|f}}
+* Finnish: {{t+|fi|silta}}
+* French: {{t+|fr|pont|m}}
+* Friulian: {{t|fur|puint|m}}
+* Galician: {{t+|gl|ponte|f}}
+* Georgian: {{t|ka|ხიდი|sc=Geor}}
+* German: {{t+|de|Brücke|f}}
+*: Alemannic German: {{t|gsw|Brugg|f}}
+* Greek: {{t+|el|γέφυρα|f}}
+*: Ancient: {{t|grc|γέφυρα|f|sc=polytonic}}
+* Gujarati: {{t|gu|પુલ|tr=pul|sc=Gujr}}
+* Hausa: {{t|ha|kadarko}}
+* Hawaiian: {{t|haw|uapo}}
+* Hebrew: {{t+|he|גֶשֶר|m|tr=gésher}}
+* Hindi: {{t|hi|पुल|m|tr=pul|sc=Deva}}
+* Hungarian: {{t+|hu|híd}}
+* Icelandic: {{t+|is|brú|f}}
+* Ido: {{t+|io|ponto}}
+* Indonesian: {{t+|id|jembatan}}
+*: Sundanese: {{t|id|cukang}}
+* Ingush: {{t|inh|тӏий}}
+* Interlingua: {{t|ia|ponte}}
+* Interlingue: {{t|ie|ponte}}
+* Irish: {{t+|ga|droichead|m}}
+*: Old Irish: {{t|sga|drochet|n}}
+* Istriot: {{t|ist|ponto|m}}
+* Italian: {{t+|it|ponte|m}}
+* Japanese: {{t+|ja|橋|tr=はし, hashi|sc=Jpan}}, {{t+|ja|橋梁|tr=きょうりょう, kyōryō|sc=Jpan}}
+* Norman: {{t|nrf|pont|m}}
+* Kabardian: {{t|kbd|лъэмыж}}
+* Kannada: {{t+|kn|ಸೇತುವೆ|sc=Knda}}
+* Karelian: {{t|krl|sildu}}
+* Kashubian: {{t|csb|mòst|m}}
+* Kazakh: {{t|kk|көпір|sc=Cyrl}}
+* Khmer: {{t+|km|ស្ពាន}}
+* Korean: {{t+|ko|다리|sc=Kore}}, {{qualifier|suffix}} {{t+|ko|...[[교]]|sc=Kore}}
+* Kurdish:
+*: Kurmanji: {{t+|ku|pir}}
+*: Sorani: {{t|ckb|پرد|tr=pird}}
+* Kyrgyz: {{t+|ky|көпүрө|sc=Cyrl}}
+* Lao: {{t+|lo|ຂົວ|sc=Laoo}}
+* Latgalian: {{t|ltg|tylts}}
+* Latin: {{t+|la|pons|m}}
+* Latvian: {{t+|lv|tilts|m}}
+* Laz: {{t|lzz|ხინჯი}}
+* Lingala: {{t|ln|gwagwa}}, {{t|ln|gbagba}}
+* Lithuanian: {{t+|lt|tiltas|m}}
+* Luganda: {{t|lg|olutindo}}
+* Lun Bawang: {{t|lnd|afir}}
+* Luxembourgish: {{t+|lb|Bréck|f}}
+{{trans-mid}}
+* Lü: {{t|khb|ᦷᦃ|tr=xó}}
+* Macedonian: {{t|mk|мост|m|sc=Cyrl}}
+* Malagasy: {{t+|mg|tetezana}}
+* Malay: {{t|ms|jambatan}}, {{t|ms|titi}}, {{t|ms|titian}}, {{t|ms|jambat}}
+* Malayalam: {{t+|ml|പാലം|sc=Mlym}}
+* Maltese: {{t|mt|pont|m}}
+* Manx: {{t|gv|droghad|m}}
+* Maori: {{t|mi|piriti}}, {{t|mi|arawhata}}, {{t|mi|arawhiti}}
+* Marathi: {{t|mr|सेतु|tr=setu|sc=Deva}}
+* Mingrelian: {{t|xmf|ხინჯი}}
+* Mirandese: {{t|mwl|puonte}}
+* Moksha: {{t|mdf|седь}}
+* Mongolian: {{t|mn|гүүр тавих|sc=Cyrl}}, {{t+|mn|гүүр|sc=Cyrl}}
+* Navajo: {{t|nv|naʼníʼá}}
+* Nepali: {{t|ne|पुल|tr=pul|sc=Deva}}
+* North Frisian: {{t|frr|brag|f}}
+* Northern Sami: {{t|se|šaldi}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bro|m|f}}, {{t+|nb|bru|m|f}}
+*: Nynorsk: {{t|nn|bru|f}}
+* Occitan: {{t+|oc|pònt|m}}
+* Okinawan: {{t|ryu|ぱし|tr=pashi}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|мостъ|m|sc=Cyrs}}
+* Old East Slavic: {{t|orv|мостъ|m}}
+* Old English: {{t|ang|brycg|f}}
+* Oriya: {{t+|or|ପୋଲ|tr=pōla|sc=Orya}}
+* Ossetian: {{t|os|хид|sc=Cyrl}}
+* Pashto: {{t+|ps|پل|tr=pul|sc=ps-Arab}}
+* Persian: {{t+|fa|پل|tr=pol}}
+* Polish: {{t+|pl|most|m}}
+* Portuguese: {{t+|pt|ponte|f}}
+* Punjabi: {{t|pa|ਪੁਲ|tr=pul}}
+* Rajasthani: {{t-needed|raj}}
+* Romanian: {{t+|ro|pod|n}}, {{t+|ro|punte|f}} {{qualifier|small}}
+* Romansch: {{t|rm|punt|m}}
+* Russian: {{t+|ru|мост|m}}
+* Samoan: {{t|sm|faiā}}, {{t|sm|alaniu}}
+* Sanskrit: {{t|sa|सेतु}}
+* Sardinian: {{t|sc|ponte}}, {{t|sc|ponti}}
+* Saterland Frisian: {{t|stq|Brääch|f}}
+* Scottish Gaelic: {{t|gd|drochaid|f}}
+* Serbo-Croatian: {{t+|sh|bȓv}}
+*: Cyrillic: {{t|sh|мо̑ст|m|sc=Cyrl}}, {{t|sh|ћу̀прија|f|sc=Cyrl}} {{qualifier|archaic, poetic}}
+*: Roman: {{t+|sh|mȏst|m|sc=Latn}}, {{t+|sh|ćùprija|f|sc=Latn}} {{qualifier|archaic, poetic}}
+* Sicilian: {{t+|scn|ponti}}
+* Sindhi: {{t|sd|پل|tr=puli|alt=پُلِ|sc=sd-Arab}}
+* Sinhalese: {{t|si|පාලම|sc=Sinh}}
+* Skolt Sami: {{t|sms|mostt}}
+* Slovak: {{t|sk|most|m}}
+* Slovene: {{t+|sl|most|m}}
+* Somali: {{t|so|kaabad|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|móst|m}}
+*: Upper Sorbian: {{t|hsb|móst|m}}
+* Southern Altai: {{t|alt|кӱр|tr=kür|sc=Cyrl}}
+* Spanish: {{t+|es|puente|m}}, {{t+|es|bóveda|f}} {{qualifier|El Salvador}}
+* Svan: {{t|sva|ბოგ}}
+* Swahili: {{t+|sw|daraja}}
+* Swedish: {{t+|sv|bro|c}}
+* Tagalog: {{t|tl|tulay}}
+* Tahitian: {{t|ty|'ē'a turu}}
+* Tajik: {{t+|tg|пул|sc=Cyrl}}, {{t|tg|кӯпрук|sc=Cyrl}}
+* Tamil: {{t+|ta|பாலம்|sc=Taml}}
+* Tatar: {{t+|tt|күпер|sc=Cyrl}}
+* Telugu: {{t+|te|వంతెన|sc=Telu}}, {{t+|te|వారధి|sc=Telu}}, {{t+|te|సేతువు|sc=Telu}}
+* Thai: {{t+|th|สะพาน|tr=sàpaan|sc=Thai}}
+* Tigrinya: {{t|ti|ድልድል|sc=Ethi}}
+* Tongan: {{t|to|hale kavakava}}
+* Tswana: {{t|tn|borogo}}
+* Turkish: {{t+|tr|köprü}}
+* Turkmen: {{t|tk|köpri}}
+* Udmurt: {{t|udm|выж}}
+* Ukrainian: {{t|uk|міст|m}}
+* Urdu: {{t|ur|پل|m|tr=pul}}
+* Uyghur: {{t+|ug|كۆۋرۈك|sc=ug-Arab}}
+* Uzbek: {{t+|uz|koʻprik|sc=Latn}}
+* Venetian: {{t|vec|pónte}}, {{t|vec|ponte}}, {{t|vec|pónt}}, {{t|vec|pont}}
+* Vietnamese: {{t+|vi|cầu}} ({{t|vi|橋}})
+* Vilamovian: {{t|wym|bryk|f}}
+* Walloon: {{t+|wa|pont|m}}
+* Waray-Waray: {{t|war|tulay}}
+* Welsh: {{t+|cy|pont|f}}
+* West Frisian: {{t|fy|brêge}}
+* Wolof: {{t|wo|pom}}
+* Xhosa: {{t|xh|umchankcatho}}, {{t|xh|ibrorho}}
+* Yakut: {{t|sah|муоста|sc=Cyrl}}, {{t|sah|күргэ|sc=Cyrl}}
+* Yiddish: {{t|yi|בריק|f}}
+* Yoruba: {{t|yo|afárá}}
+* Zhuang: {{t|za|giuz}}
+* Zulu: {{t|zu|ibhuloho}}
+{{trans-bottom}}
+
+{{trans-top|bony ridge of the nose}}
+* Armenian: {{t+|hy|քթարմատ}}
+* Belarusian: {{t|be|перано́ссе|n|sc=Cyrl}}
+* Czech: {{t+|cs|hřbet|m}}
+* Danish: {{t|da|næseben|n}}
+* Faroese: {{t|fo|nasabein|n}}
+* Finnish: {{t|fi|nenän selkä}}
+* German: {{t|de|Nasenrücken|m}}
+* Greek: {{t+|el|ράχη|f}}, {{t+|el|άκανθα|f}}
+* Hungarian: {{t+|hu|orrnyereg}}
+* Irish: {{t|ga|droichead sróine|m}}
+{{trans-mid}}
+* Italian: {{t+|it|setto}} nasale {{g|m}}
+* Maori: {{t|mi|kaka}}, {{t|mi|kaka o te ihu}}
+* Polish: {{t+|pl|grzbiet|m}}
+* Portuguese: {{t+|pt|ponte|f}}
+* Russian: {{t+|ru|перено́сица|f}}
+* Slovak: {{t+|sk|chrbát|m}}
+* Swedish: {{t|sv|näsrot|c}}
+* Tagalog: {{t|tl|balingos}}, {{t|tl|balingusan}}
+* Ukrainian: {{t|uk|перені́сся|n|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|replacement for teeth}}
+* Bulgarian: {{t+|bg|мост|m}}
+* Catalan: {{t+|ca|pont|m}}
+* Czech: {{t+|cs|můstek|m}}
+* Danish: {{t+|da|bro|c}}
+* Faroese: {{t|fo|brúgv|f}}
+* Finnish: {{t+|fi|silta}}, {{t+|fi|hammassilta}}
+* French: {{t+|fr|bridge|m}}, {{qualifier|Canada}} {{t+|fr|pont|m}}
+* German: {{t+|de|Brücke|f}}
+* Greek: {{t+|el|γέφυρα|f}}
+* Hungarian: {{t+|hu|híd}}
+* Inuktitut: {{t|iu|ᑭᒍᑎᓐᖑᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ|sc=Cans}}
+* Italian: {{t+|it|ponte|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|冠橋義歯|tr=かんきょうぎし, kankyo gishi|sc=Jpan}}
+* Macedonian: {{t|mk|мост|m|sc=Cyrl}}
+* Polish: {{t+|pl|most|m}}, {{t+|pl|mostek|m}}
+* Portuguese: {{t+|pt|ponte|f}}
+* Russian: {{t+|ru|мост|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|проте́за|f|sc=Cyrl}}
+*: Roman: {{t+|sh|protéza|f|sc=Latn}}
+* Slovene: {{t|sl|mostiček|m}}
+* Spanish: {{t+|es|puente|m}}
+* Swedish: {{t+|sv|brygga|c}}, {{t|sv|tandbrygga|c}}
+* Turkish: {{t+|tr|köprü}}
+{{trans-bottom}}
+
+{{trans-top|nautical}}
+* Armenian: {{t|hy|նավապետի կամրջակ}}
+* Bulgarian: {{t|bg|мостик|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|船橋|sc=Hani}}, {{t+|cmn|船桥|tr=chuánqiáo|sc=Hani}}
+* Danish: {{t+|da|bro|c}}
+* Faroese: {{t|fo|brúgv|f}}
+* Finnish: {{t+|fi|komentosilta}}
+* French: {{t+|fr|passerelle|f}}
+* Galician: {{t+|gl|ponte|f}}
+* German: {{t+|de|Brücke|f}}
+* Greek: {{t+|el|γέφυρα|f}}
+* Hungarian: {{t+|hu|híd}}
+* Irish: {{t+|ga|droichead|m}}
+* Japanese: {{t|ja|船橋|tr=せんきょう, senkyo|sc=Jpan}}
+* Norwegian:
+*: Bokmål: {{t|nb|styrehus|n}}
+*: Nynorsk: {{t|nn|styrehus|n}}, {{t|nn|styrhus|n}}
+{{trans-mid}}
+* Polish: {{t|pl|mostek kapitański|m}}
+* Portuguese: {{t+|pt|passadiço|m}}
+* Russian: {{t|ru|капита́нский мо́стик|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|капетански мостић|m|sc=Cyrl}}, {{t|sh|командни мост|m}}
+*: Roman: {{t|sh|kapetanski mostić|m}}, {{t|sh|komandni most|m}}
+* Slovene: {{t+|sl|most|m}}
+* Spanish: {{t+|es|puente|m}}
+* Swahili: {{t+|sw|daraja}}
+* Swedish: {{t+|sv|brygga|c}}
+* Turkish: {{t+|tr|köprü}}
+* Yiddish: {{t|yi|בריקל|n}}
+{{trans-bottom}}
+
+{{trans-top|communications}}
+* Finnish: {{t+|fi|silta}}
+* French: {{t+|fr|pont}}
+* Greek: {{t+|el|γέφυρα|f}}
+{{trans-mid}}
+* Spanish: {{t|es|pasarela|f}}
+* Swahili: {{t+|sw|daraja}}
+{{trans-bottom}}
+
+{{trans-top|chemistry}}
+* Finnish: {{t+|fi|silta}}
+* Macedonian: {{t|mk|мост|m|sc=Cyrl}}
+{{trans-mid}}
+* Russian: {{t+|ru|мо́стик|m}}
+{{trans-bottom}}
+
+{{trans-top|piece on string instruments}}
+* Czech: {{t+|cs|kobylka|f}}
+* Danish: {{t+|da|stol|c}}
+* Dutch: {{t+|nl|kam|m}}
+* Esperanto: {{t|eo|ponto}}
+* Finnish: {{t+|fi|talla}}
+* French: {{t+|fr|chevalet|m}}
+{{trans-mid}}
+* German: {{t+|de|Steg|m}}
+* Greek: {{t+|el|καβαλάρης|m}}
+*: Ancient: {{t|grc|δόναξ|sc=polytonic}}
+* Irish: {{t+|ga|droichead|m}}
+* Japanese: {{t+|ja|駒|tr=こま, koma|sc=Jpan}}
+* Macedonian: {{t|mk|кобилица|f|sc=Cyrl}}
+* Persian: {{t+|fa|خرک|tr=xarak|sc=fa-Arab}}
+* Portuguese: {{t+|pt|cavalete|m}}
+{{trans-bottom}}
+
+{{trans-top|wrestling position}}
+* Finnish: {{t+|fi|silta}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb|bridg}}
+
+# To be or make a bridge over something.
+#: ''With enough cable, we can '''bridge''' this gorge.''
+# To [[span]] as if with a bridge.
+#* '''2012''', Christoper Zara, ''Tortured Artists: From Picasso and Monroe to Warhol and Winehouse, the Twisted Secrets of the World's Most Creative Minds'', part 1, chapter 1, {{gbooks|q=bridged|id=HV4jKhjzMVYC|pg=28}}:
+#*: The brooding, black-clad singer '''bridged''' a stark divide that emerged in the recording industry in the 1950s, as post-Elvis pop singers diverged into two camps and audiences aligned themselves with either the sideburned rebels of rock 'n' roll or the cowboy-hatted twangsters of country music.
+#: ''The two groups were able to '''bridge''' their differences.''
+# {{label|en|music}} To [[transition]] from one piece or section of music to another without stopping.
+#: ''We need to '''bridge''' that [[jam]] into "The Eleven".''
+# {{label|en|computing|communication}} To [[connect]] two or more computer buses, networks etc. with a bridge.
+# {{label|en|wrestling}} To go to the bridge position.
+
+=====Translations=====
+{{trans-top|to make a bridge}}
+* Finnish: [[rakentaa#Finnish|rakentaa]] [[silta#Finnish|silta]] [[jonkin#Finnish|jonkin]] {{t+|fi|yli}}
+{{trans-mid}}
+* German: {{t+|de|überbrücken}}
+* Maori: {{t|mi|kahupapa}}
+* Quechua: {{t|qu|chakachay}}
+{{trans-bottom}}
+
+{{trans-top|to span as if with a bridge}}
+* Finnish: {{t+|fi|sovitella}}
+* German: {{t+|de|überbrücken}}
+* Hungarian: {{t+|hu|áthidal}}
+* Macedonian: {{t|mk|премостува|sc=Cyrl}}
+{{trans-mid}}
+* Maori: {{t|mi|kahupapa}}
+* Portuguese: {{t+|pt|superar}}
+* Swedish: {{t+|sv|överbrygga}}
+* Tongan: {{t|to|hala fakakavakava}}
+{{trans-bottom}}
+
+{{trans-top|music: to transition from one piece or section to another}}
+* German: {{t|de|überwechseln}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing, communication: to connect with a bridge}}
+* Finnish: {{t|fi|sillata}}
+{{trans-mid}}
+* Macedonian: {{t|mk|премостува|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|wrestling: to go to the bridge position}}
+* Finnish: {{t|fi|sillata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 2===
+From the earlier form (name of an older card game) ''biritch'', probably from {{etyl|ru|en}} {{m|ru|бири́ч}} (per the OED), or else from {{etyl|tr|en}} {{m|tr|bir}}-{{m|tr|üç}}, "one-three".<ref>"bridge." *OED 2nd edition. 1989. (online)</ref><ref>[http://www.etymonline.com/index.php?term=bridge "bridge."] Online Etymology Dictionary. 2008.</ref>
+
+====Noun====
+{{en-noun|-}}
+
+# {{label|en|card games}} A [[card game]] played with four players playing as two teams of two players each.
+#: ''Bidding is an essential element of the game '''bridge'''.''
+
+=====Translations=====
+{{trans-top|card game}}
+* Bulgarian: {{t|bg|бридж|m}}
+* Catalan: {{t+|ca|bridge|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|桥牌|sc=Hans}}, {{t+|cmn|橋牌|sc=Hans}}
+* Czech: {{t|cs|bridž|m}}
+* Danish: {{t+|da|bridge}}
+* Dutch: {{t+|nl|bridge}}
+* Esperanto: {{t+|eo|briĝo}}
+* Faroese: {{t|fo|bridge|n}}
+* Finnish: {{t+|fi|bridge}}
+* French: {{t+|fr|bridge|m}}
+* German: {{t+|de|Bridge|n}}
+* Hungarian: {{t+|hu|bridzs}}
+* Icelandic: {{t|is|bridds|n}}
+* Italian: {{t+|it|bridge|m}}
+* Latvian: {{t|lv|bridžs|m}}
+* Macedonian: {{t|mk|бриџ|m|sc=Cyrl}}
+{{trans-mid}}
+* Malay: {{t|ms|brij}}
+* Maori: {{t|mi|piriti}}
+* Polish: {{t+|pl|brydż|m}}
+* Portuguese: {{t+|pt|bridge|m}}
+* Romanian: {{t+|ro|bridge}}
+* Russian: {{t+|ru|бридж|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бриџ|m}}
+*: Roman: {{t+|sh|bridž|m}}
+* Slovene: {{t|sl|bridž|m}}
+* Spanish: {{t+|es|bridge|m}}
+* Swahili: {{t+|sw|daraja}}
+* Swedish: {{t+|sv|bridge}}
+* Turkish: {{t+|tr|briç}}
+* Ukrainian: {{t|uk|брідж|m}}
+{{trans-bottom}}
+
+====References====
+<references />
+
+===Anagrams===
+* [[begird#English|begird]]
+
+[[Category:1000 English basic words]]
+[[Category:en:Bridges]]
+
+----
+
+==Dutch==
+
+===Etymology===
+From {{der|nl|en|bridge||}}.
+
+===Pronunciation===
+* {{audio|Nl-bridge.ogg|Audio|lang=nl}}
+
+===Noun===
+{{nl-noun|n|-|-}}
+
+# {{l|en|bridge}} (card game)
+
+====Derived terms====
+* {{l|nl|bridgeclub}}
+* {{l|nl|bridgen}}
+
+----
+
+==Finnish==
+
+===Etymology===
+From {{etyl|en|fi}}
+
+===Noun===
+{{fi-noun}}
+
+# {{label|fi|card games}} [[bridge#Etymology 2|bridge]]
+
+====Declension====
+{{fi-decl-nalle|bridg|||ä}}
+
+----
+
+==French==
+
+===Etymology===
+From {{etyl|en|fr}} {{m|en|bridge}}.
+
+===Pronunciation===
+* {{IPA|/bʁidʒ/|lang=fr}}
+
+===Noun===
+{{fr-noun|m|-}}
+
+# {{label|fr|card games}} [[#Etymology_2|bridge]]
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Italian==
+
+===Etymology===
+{{borrowing|en|bridge|lang=it}}.
+
+===Noun===
+{{head|it|noun|g=m|invariable}}
+
+# {{label|it|card games}} [[#English|bridge]] {{gloss|card game}}
+
+====Related terms====
+* [[bridgista]]
+* [[bridgistico]]
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m|-}}
+
+# {{label|pt|card games}} {{l|en|bridge}}
+
+----
+
+==Spanish==
+
+===Etymology===
+{{borrowing|en|bridge|lang=es}}.
+
+===Noun===
+{{es-noun|m|-}}
+
+# {{label|es|card games}} [[#English|bridge]] {{gloss|card game}}
+
+----
+
+==Swedish==
+
+===Etymology===
+From {{etyl|en|sv}}.
+
+===Noun===
+{{sv-noun|c}}
+
+# {{label|sv|card games}} [[#Etymology_2|bridge]] {{gloss|card game}}
+
+====Declension====
+{{sv-noun-unc-irreg-c}}
+
+====Related terms====
+* [[bridgekväll]]
+* [[bridgespelare]]
+* [[bridgetävling]]
+
+[[ang:bridge]]
+[[ar:bridge]]
+[[an:bridge]]
+[[az:bridge]]
+[[zh-min-nan:bridge]]
+[[br:bridge]]
+[[ca:bridge]]
+[[cs:bridge]]
+[[cy:bridge]]
+[[da:bridge]]
+[[de:bridge]]
+[[et:bridge]]
+[[el:bridge]]
+[[es:bridge]]
+[[eo:bridge]]
+[[eu:bridge]]
+[[fa:bridge]]
+[[fr:bridge]]
+[[ko:bridge]]
+[[hy:bridge]]
+[[hr:bridge]]
+[[io:bridge]]
+[[it:bridge]]
+[[kn:bridge]]
+[[kk:bridge]]
+[[sw:bridge]]
+[[ku:bridge]]
+[[ky:bridge]]
+[[lo:bridge]]
+[[lv:bridge]]
+[[lb:bridge]]
+[[lt:bridge]]
+[[li:bridge]]
+[[hu:bridge]]
+[[mk:bridge]]
+[[mg:bridge]]
+[[ml:bridge]]
+[[my:bridge]]
+[[fj:bridge]]
+[[nl:bridge]]
+[[ja:bridge]]
+[[no:bridge]]
+[[oc:bridge]]
+[[pl:bridge]]
+[[pt:bridge]]
+[[ro:bridge]]
+[[ru:bridge]]
+[[sa:bridge]]
+[[simple:bridge]]
+[[sr:bridge]]
+[[fi:bridge]]
+[[sv:bridge]]
+[[ta:bridge]]
+[[te:bridge]]
+[[th:bridge]]
+[[chr:bridge]]
+[[tr:bridge]]
+[[uk:bridge]]
+[[vec:bridge]]
+[[vi:bridge]]
+[[zh:bridge]]
