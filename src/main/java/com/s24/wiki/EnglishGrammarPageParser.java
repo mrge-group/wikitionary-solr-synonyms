@@ -6,6 +6,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.apache.commons.lang3.StringUtils;
+
 import com.beust.jcommander.internal.Lists;
 import com.google.common.base.CharMatcher;
 import com.google.common.base.Splitter;
@@ -34,8 +36,7 @@ public class EnglishGrammarPageParser extends PageParser {
 
       // legal words ony
       if (!illegalCharacters.matchesAnyOf(word)
-            && !CharMatcher.DIGIT.matchesAnyOf(word)
-            && matcher.find()) {
+            && !CharMatcher.DIGIT.matchesAnyOf(word)) {
          
          // explcit plural given
          if (matcher.find()) {
@@ -58,8 +59,7 @@ public class EnglishGrammarPageParser extends PageParser {
          }
       }
 
-      // System.out.println("Found: " + StringUtils.join(left, ",") + " => " +
-      // right.iterator().next());
+//      System.out.println("Found: " + StringUtils.join(left, ",") + " => " + right.iterator().next());
       callback.callback(Lists.newArrayList(left), Lists.newArrayList(right));
    }
 

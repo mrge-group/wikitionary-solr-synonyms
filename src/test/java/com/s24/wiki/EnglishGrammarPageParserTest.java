@@ -45,6 +45,16 @@ public class EnglishGrammarPageParserTest {
       
       parser.parse(p);
    }
+
+   @Test
+   public void testApple() throws Exception {
+      String wife = CharStreams.toString(new InputStreamReader(getClass().getResourceAsStream("/apple.txt"), Charsets.UTF_8));
+      WikiPage p = new WikiPage();
+      p.setTitle("apple");
+      p.setWikiText(wife);
+      
+      parser.parse(p);
+   }
    
 
 }
