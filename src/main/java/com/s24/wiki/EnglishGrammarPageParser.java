@@ -18,7 +18,7 @@ public class EnglishGrammarPageParser extends PageParser {
 
    private final static Pattern pattern = Pattern.compile("\\{\\{en-noun\\|(.*)\\}\\}");
    private final static CharMatcher regularStems = CharMatcher.anyOf("|~-?!");
-   private final static CharMatcher illegalCharacters = CharMatcher.anyOf("'%&/.´`*$@{");
+   private final static CharMatcher illegalCharacters = CharMatcher.anyOf("'%&/.´`*$@{[]");
    private final boolean includeRegularStems;
 
    public EnglishGrammarPageParser(PageParserCallback cb, boolean includeRegularStems) {
@@ -53,7 +53,7 @@ public class EnglishGrammarPageParser extends PageParser {
                      if (includeRegularStems) {
                         left.add(word + s);
                      }
-                  } else {
+                  } else if (s.length() > 2) {
                      left.add(s);
                   }
                } else if (includeRegularStems && "-".equals(s)) {
